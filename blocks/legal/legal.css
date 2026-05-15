@@ -1,0 +1,12 @@
+.legal {
+    max-width: 860px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.legal p {
+    font-size: 0.75rem;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 0.75rem;
+}

@@ -1,0 +1,19 @@
+.call-bar {
+    background: #1a3c8f;
+    padding: 1.75rem 2rem;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.call-bar-inner p {
+    color: white;
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin: 0;
+}
+
+.call-bar-inner a {
+    color: #e05a2b;
+    font-weight: 700;
+    text-decoration: underline;
+}

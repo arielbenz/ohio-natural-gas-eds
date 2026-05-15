@@ -1,0 +1,46 @@
+.promo-offer {
+    background: linear-gradient(135deg, #1a3c8f 0%, #2952c8 100%);
+    border-radius: 12px;
+    padding: 2.5rem 2rem;
+    text-align: center;
+    margin: 2rem auto;
+    max-width: 860px;
+}
+
+.promo-offer-inner {
+    color: white;
+}
+
+.promo-offer-body {
+    font-size: 1.2rem;
+    font-weight: 700;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+    color: white;
+}
+
+.promo-offer-body p {
+    margin: 0;
+    color: white;
+}
+
+.promo-offer-meta {
+    display: inline-flex;
+    align-items: center;
+    gap: 1rem;
+    background: rgba(0, 0, 20, 0.35);
+    border-radius: 40px;
+    padding: 0.6rem 1.5rem;
+    font-size: 0.95rem;
+    color: white;
+}
+
+.promo-offer-code strong,
+.promo-offer-expiry strong {
+    color: white;
+    letter-spacing: 0.04em;
+}
+
+.promo-offer-divider {
+    opacity: 0.4;
+}
